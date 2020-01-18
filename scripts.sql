@@ -4,9 +4,9 @@ FROM data_analyst_jobs;
 
 
 /* Question 2 */
-/*SELECT *
+SELECT *
 FROM data_analyst_jobs
-LIMIT 10;*/
+LIMIT 10;
 
 
 /* Question 3 */

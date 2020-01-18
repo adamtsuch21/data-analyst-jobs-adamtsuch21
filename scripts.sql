@@ -10,10 +10,10 @@ LIMIT 10;
 
 
 /* Question 3 */
-/*SELECT COUNT(*)
+SELECT COUNT(*)
 FROM data_analyst_jobs
 WHERE location = 'TN'
-OR location = 'KY';*/
+OR location = 'KY';
 
 
 /* Question 4 */

@@ -48,10 +48,10 @@ WHERE location = 'CA';
 
 
 /* Question 9 */
-/*SELECT company, AVG(star_rating) AS avg_rating
+SELECT company, AVG(star_rating) AS avg_rating
 FROM data_analyst_jobs
 WHERE review_count > 5000
-GROUP BY company;*/
+GROUP BY company;
 
 
 /* Question 10 */

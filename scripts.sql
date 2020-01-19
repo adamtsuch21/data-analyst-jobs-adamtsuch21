@@ -37,7 +37,7 @@ ORDER BY avg_rating desc;
 
 
 /* Question 7 */
-/*SELECT COUNT(DISTINCT title)
+SELECT COUNT(DISTINCT title)
 FROM data_analyst_jobs;*/
 
 

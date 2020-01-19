@@ -17,9 +17,9 @@ OR location = 'KY';
 
 
 /* Question 4 */
-/*SELECT COUNT(*)
+SELECT COUNT(*)
 FROM data_analyst_jobs
-WHERE star_rating > 4;*/
+WHERE star_rating > 4;
 
 
 /* Question 5 */

@@ -69,10 +69,10 @@ WHERE title LIKE '%nalyst%';
 
 
 /* Question 12 */
-/*SELECT DISTINCT title
+SELECT DISTINCT title
 FROM data_analyst_jobs
 WHERE title NOT LIKE '%nalyst%'
 AND title NOT LIKE '%ANALYST%'
 AND title NOT LIKE '%nalytics%'
-AND title NOT LIKE '%ANALYTICS%';*/
+AND title NOT LIKE '%ANALYTICS%';
 

@@ -30,10 +30,10 @@ AND review_count < 1000;
 
 
 /* Question 6 */
-/*SELECT location AS state, AVG(star_rating) AS avg_rating
+SELECT location AS state, AVG(star_rating) AS avg_rating
 FROM data_analyst_jobs
 GROUP BY state
-ORDER BY avg_rating desc;*/
+ORDER BY avg_rating desc;
 
 
 /* Question 7 */

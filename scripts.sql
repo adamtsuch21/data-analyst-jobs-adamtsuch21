@@ -42,9 +42,9 @@ FROM data_analyst_jobs;*/
 
 
 /* Question 8 */
-/*SELECT COUNT(DISTINCT title)
+SELECT COUNT(DISTINCT title)
 FROM data_analyst_jobs
-WHERE location = 'CA';*/
+WHERE location = 'CA';
 
 
 /* Question 9 */

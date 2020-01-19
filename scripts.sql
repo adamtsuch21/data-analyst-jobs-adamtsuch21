@@ -23,10 +23,10 @@ WHERE star_rating > 4;
 
 
 /* Question 5 */
-/*SELECT COUNT(*)
+SELECT COUNT(*)
 FROM data_analyst_jobs
 WHERE review_count > 500
-AND review_count < 1000;*/
+AND review_count < 1000;
 
 
 /* Question 6 */
